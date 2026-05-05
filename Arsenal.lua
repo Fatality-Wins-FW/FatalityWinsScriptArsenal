@@ -95,7 +95,7 @@ local function shoot()
 end
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
-local Window = Library:NewWindow("Fatality Wins Arsenal")
+local Window = Library:NewWindow("Fatality Wins Arsenal V2")
 task.wait(0.5)
 SyncUI()
 
